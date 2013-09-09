@@ -4,7 +4,7 @@ Lab1
 Homework
 ---
 
-For homework, we are going to ask you guys to create a simple to do list. You can find the example demo here (insert link). To start the lab, fork and clone Lab1. It has all the files from a finished Lab 0.5, which will help you out as a starting point.
+For homework, we are going to ask you guys to create a simple to do list. You can find [the example demo here](https://vimeo.com/74014220). To start the lab, fork and clone Lab1. It has all the files from a finished Lab 0.5, which will help you out as a starting point.
 
 To break the homework down into more detail, the specs are:
 * 1 Activity / View
